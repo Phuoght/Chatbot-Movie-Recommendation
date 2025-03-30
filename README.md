@@ -7,7 +7,7 @@ Chatbot này giúp người dùng **tìm kiếm và gợi ý phim** theo sở th
 - **Tạo FAISS Index** để tìm kiếm phim nhanh chóng.
 - **Sử dụng DeepSeek AI** để trả lời dựa trên phim đã tìm được.
 
-*Lưu ý:* AI **chỉ gợi ý phim từ dữ liệu đã có**, **không tự tạo phim mới**.
+*Lưu ý:* Chỉ dùng model DeepSeek AI phản hồi ra văn bản dựa trên những bộ phim đã tìm được, không nhờ DeepSeek AI phản hồi ra phim.
 
 ---
 
