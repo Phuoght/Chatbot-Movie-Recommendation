@@ -1,0 +1,13 @@
+faiss
+flask
+os
+numpy
+pandas
+torch
+python-dotenv
+openai
+transformers
+scikit-learn
+re
+asyncio
+
