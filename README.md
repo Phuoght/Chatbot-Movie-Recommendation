@@ -42,7 +42,7 @@ Truy cập **http://127.0.0.1:5000/**
 4. **DeepSeek AI generate câu trả lời** dựa trên danh sách phim tìm được.
 5. **Chatbot phản hồi gợi ý phim**.
 
-## 🔧 Môi trường `.env`
+## Môi trường `.env`
 Bạn cần tạo file `.env` trong thư mục chính để lưu thông tin quan trọng như API key:
 - OPENROUTER_API_KEY=your_api_key_here
 
