@@ -17,7 +17,7 @@ Chatbot này giúp người dùng **tìm kiếm và gợi ý phim** theo sở th
 - **NLP & Embedding**: `Sup-SimCSE-VietNamese-Phobert-Base`  
 - **Tìm kiếm nhanh**: FAISS  
 - **AI Model**: DeepSeek  
-- **Giao diện**: Flask hoặc giao diện CLI/GUI đơn giản  
+- **Giao diện**: Flask
 
 
 ## Cách chạy chatbot
@@ -44,7 +44,7 @@ Truy cập **http://127.0.0.1:5000/**
 
 ## 🔧 Môi trường `.env`
 Bạn cần tạo file `.env` trong thư mục chính để lưu thông tin quan trọng như API key:
-- DEEPSEEK_API_KEY=your_api_key_here
+- OPENROUTER_API_KEY=your_api_key_here
 
 ## Hiệu suất chatbot
 - **Tốc độ phản hồi**: ~10 giây (tìm kiếm nhanh nhưng call api phản hồi lâu)  
@@ -53,6 +53,5 @@ Bạn cần tạo file `.env` trong thư mục chính để lưu thông tin quan
 ##  Định hướng phát triển
 - Cải thiện hiệu suất phản hồi chatbot.
 - Cải thiện thuật toán để tìm kiếm chính xác hơn.
-- Tích hợp chatbot vào Messenger/Zalođể tiện lợi hơn.
 
 
