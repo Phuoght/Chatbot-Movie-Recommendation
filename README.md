@@ -22,9 +22,10 @@ Chatbot này giúp người dùng **tìm kiếm và gợi ý phim** theo sở th
 
 ## Cách chạy chatbot
 - Clone repository: git clone https://github.com/Phuoght/Chatbot-Movie-Recommendation.git
+- cd Chatbot-Movie-Recommendation
+- Tải file: git lfs pull
 
 ### Cài đặt thư viện cần thiết
-- cd Chatbot-Movie-Recommendation
 - pip install -r requirements.txt
 
 ### Chạy chatbot
